@@ -5,6 +5,8 @@ downlonad the js frontend source code (clone this repo) and host it on your own 
 python server.py
 ```
 [<img src="https://raw.githubusercontent.com/calcuis/simple-bank-contract/master/demo1.png" width="350" height="400">](https://raw.githubusercontent.com/calcuis/simple-bank-contract/master/demo1.png)
+#### frontend hosting
+- https://gguf.us
 #### backend (smart contract)
 - never turn off (hopefully)🐷
 - get/check [source code](https://github.com/calcuis/container-freemint/)
