@@ -7,6 +7,7 @@ python server.py
 [<img src="https://raw.githubusercontent.com/calcuis/simple-bank-contract/master/demo1.png" width="350" height="400">](https://raw.githubusercontent.com/calcuis/simple-bank-contract/master/demo1.png)
 #### frontend hosting
 - https://gguf.us
-#### backend (smart contract)
-- never turn off (hopefully)🐷
-- get/check [source code](https://github.com/calcuis/container-freemint/)
+#### backend (smart contracts)
+- never turn off (hope so)🐷
+- check/get lazybank [source code](https://github.com/calcuis/simple-bank-contract)
+- check/get freemint [source code](https://github.com/calcuis/container-freemint)
